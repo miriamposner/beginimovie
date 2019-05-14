@@ -6,7 +6,7 @@ IMovie does have some fiddly elements, but students seem to catch on to the basi
 
 ## Get ready (1)
 
-Its easier to use iMovie if you move all your photos and videos into the Photos library. To do this, first download your photos from wherever theyre currently stored. Next, open **Photos. **(It should be in your **Applications **folder.) Now, drag your photos into your **Photos **library.
+Its easier to use iMovie if you move all your photos and videos into the Photos library. To do this, first download your photos from wherever theyre currently stored. Next, open **Photos.** (It should be in your **Applications** folder.) Now, drag your photos into your **Photos** library.
 
 (A sidenote: Were putting everything into your Photos library for the purpose of this workshop, just because its the easiest way to find your media quickly. But you may prefer storing your media elsewhere. Thats fine! To import it into iMovie, open iMovie and click on **File**, then **Import Media**.)
 
@@ -16,7 +16,7 @@ Its easier to use iMovie if you move all your photos and videos into the Photos 
 
 ## Get ready (2)
 
-Were going to add some music to our movie, so we need to pick a soundtrack! We want to look for **Creative Commons-licensed **songs; that is, songs that the creators have designated free to download and reuse. One good place to look for CC-licensed music is the [Free Music Archive](http://freemusicarchive.org/). Spend some time browsing the music there. Once youve found something you like, click on the arrow to download the song. If you double-click on it, it should save in iTunes, which is where you want the file to be.
+Were going to add some music to our movie, so we need to pick a soundtrack! We want to look for **Creative Commons-licensed** songs; that is, songs that the creators have designated free to download and reuse. One good place to look for CC-licensed music is the [Free Music Archive](http://freemusicarchive.org/). Spend some time browsing the music there. Once youve found something you like, click on the arrow to download the song. If you double-click on it, it should save in iTunes, which is where you want the file to be.
 
 ![][2]
 
@@ -32,7 +32,7 @@ Now youre ready to open iMovie! It will be in your Applications folder.
 
 ## Create a new movie
 
-Click on **Create New **(or, from the File menu, select **New Movie**). If the program asks you if you'd like to use a theme, say no. Themes can be kind of cool, but they also constrain your editing options, and we want to experiment with those options.
+Click on **Create New** (or, from the File menu, select **New Movie**). If the program asks you if you'd like to use a theme, say no. Themes can be kind of cool, but they also constrain your editing options, and we want to experiment with those options.
 
 ![][4]
 
@@ -40,7 +40,7 @@ Click on **Create New **(or, from the File menu, select **New Movie**). If the p
 
 ## Start adding photos to your video
 
-Here's where you'll do your editing. If you click on **Photos Library **on the left-hand side of the window, you should see your photos and videos. The pane in the upper right-hand corner is where you'll play your video in progress. And the bottom half of the window is where you'll do your actual editing. The vertical white line in that bottom part of the window indicates where you are in your videos playback. (Right now, of course, you dont have a video, so there's nothing to play.)
+Here's where you'll do your editing. If you click on **Photos Library** on the left-hand side of the window, you should see your photos and videos. The pane in the upper right-hand corner is where you'll play your video in progress. And the bottom half of the window is where you'll do your actual editing. The vertical white line in that bottom part of the window indicates where you are in your videos playback. (Right now, of course, you dont have a video, so there's nothing to play.)
 
 Try dragging your photos and videos down to the bottom half of the screen, in the order that you want them to appear in your video.
 
@@ -58,9 +58,9 @@ By default, iMovie plays your photos for 4 seconds. But you can change this by d
 
 ## Add some music
 
-If you click on the **Audio **tab at the upper left of the iMovie window, you should see the song you downloaded in iTunes. Drag the song to the bottom half of the window, underneath the video youre editing. It should drop into place to become your soundtrack.
+If you click on the **Audio** tab at the upper left of the iMovie window, you should see the song you downloaded in iTunes. Drag the song to the bottom half of the window, underneath the video youre editing. It should drop into place to become your soundtrack.
 
-Press **play **on the upper right-hand part of the window to see how your video looks and sounds now.
+Press **play** on the upper right-hand part of the window to see how your video looks and sounds now.
 
 ![][7]
 
@@ -68,7 +68,7 @@ Press **play **on the upper right-hand part of the window to see how your video 
 
 ## Add some titles
 
-If you click on the **Titles **tab, you can see some options for titles. You can superimpose these over images (by slotting them above a video clip) or have them play by themselves. Change the text by double-clicking on the title.
+If you click on the **Titles** tab, you can see some options for titles. You can superimpose these over images (by slotting them above a video clip) or have them play by themselves. Change the text by double-clicking on the title.
 
 ![][8]
 
@@ -84,7 +84,7 @@ By default, iMovie gives your photos a Ken Burns effect, zooming and panning ove
 
 ## Change your transitions
 
-If you click on the **Transitions **tab, youll see some options for changing the way one image blends into the next. Drag a transition to the space between your image-clips in order to introduce a transition. Remember, the more frenetic your transition, the better your movie. (That's a joke.)
+If you click on the **Transitions** tab, youll see some options for changing the way one image blends into the next. Drag a transition to the space between your image-clips in order to introduce a transition. Remember, the more frenetic your transition, the better your movie. (That's a joke.)
 
 ![][10]
 
@@ -92,9 +92,9 @@ If you click on the **Transitions **tab, youll see some options for changing the
 
 ## Cut and split your video clips
 
-You can drag video clips from your Media library in the same way you did your photos. Once they're there, you can trim your clips, break them into pieces, and move them around. To do that, right-click (or press **Control **and then click your trackpad) and select from the menu that appears.
+You can drag video clips from your Media library in the same way you did your photos. Once they're there, you can trim your clips, break them into pieces, and move them around. To do that, right-click (or press **Control** and then click your trackpad) and select from the menu that appears.
 
-**Splitting **the clip breaks it into pieces, which can be reordered and rearranged. **Trim to playhead **cuts your clip to the point indicated by the white line that represents the playhead. You can even **Detach the audio **from your video so that you can manipulate it separately from the clip.
+**Splitting** the clip breaks it into pieces, which can be reordered and rearranged. **Trim to playhead** cuts your clip to the point indicated by the white line that represents the playhead. You can even **Detach the audio** from your video so that you can manipulate it separately from the clip.
 
 ![][11]
 
@@ -110,7 +110,7 @@ If you want to fine-tune the beginning or end of a video or photo, you can use t
 
 ## Save and share your movie
 
-To save your video file, click on **File **and then **Share**. You'll see that you can save your video in various ways. The most straightforward way is to save it as a file. Be sure to give the file time to finish downloading (it can take a few minutes), and unclick the **Theater **sharing checkbox—thats an Apple thing that doesn't really apply to you.
+To save your video file, click on **File** and then **Share**. You'll see that you can save your video in various ways. The most straightforward way is to save it as a file. Be sure to give the file time to finish downloading (it can take a few minutes), and unclick the **Theater** sharing checkbox—thats an Apple thing that doesn't really apply to you.
 
 ![][13]
 
